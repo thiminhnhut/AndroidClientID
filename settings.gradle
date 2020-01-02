@@ -1,0 +1,2 @@
+include ':app', ':androidclientid'
+rootProject.name='Android Client ID'
